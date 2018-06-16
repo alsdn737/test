@@ -1,7 +1,7 @@
 package practice;
 
 import java.util.Scanner;
-//12345678ß123
+//12345678ß123123
 public class HelloWorld {
 	static int[] ordinaryYear = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 	static int[] leapYear = {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};	 
